@@ -21,6 +21,9 @@ FEATURES DEMO: https://youtu.be/bdCEAM9sIxA
 
 FIRE ALARM TESTING: https://youtube.com/shorts/QCVbj8jSR_w
 
+FPS: 30 
+QUALITY: 480p
+
 ## FACE DETECTION: RUN THE simple_facerec.py SCRIPT
 
 
@@ -48,10 +51,16 @@ FIRE ALARM TESTING: https://youtube.com/shorts/QCVbj8jSR_w
 ![Screenshot from 2022-06-20 22-13-33](https://user-images.githubusercontent.com/85397632/174647674-352af162-60f0-432e-bd0e-6f107121b19d.png)
 
 
-## EMOTION DETECTION: 
+## EMOTION DETECTION: RUN THE emotion.py SCRIPT
 
 
 ![Screenshot from 2022-06-20 23-58-02](https://user-images.githubusercontent.com/85397632/174660127-deb49dbb-fdcc-45d7-81e0-92a87593459a.png)
 
 
 
+## FUTURE PLANS:
+
+* IR CAMERAS FOR PASSIVE WEAPON MONITORING
+* PRETTY GUI AND CLOUD PLATFORM FOR STORAGE
+* FASTER MODELS 
+* 60 FPS
