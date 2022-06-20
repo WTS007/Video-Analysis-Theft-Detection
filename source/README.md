@@ -17,3 +17,8 @@
 * deepface
 
 pip install < above packages >
+
+FEATURES DEMO: https://youtu.be/bdCEAM9sIxA
+
+FIRE ALARM TESTING: https://youtube.com/shorts/QCVbj8jSR_w
+
