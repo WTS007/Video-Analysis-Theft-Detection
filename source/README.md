@@ -21,7 +21,7 @@ FEATURES DEMO: https://youtu.be/bdCEAM9sIxA
 
 FIRE ALARM TESTING: https://youtube.com/shorts/QCVbj8jSR_w
 
-## FACE DETECTION
+## FACE DETECTION: RUN THE simple_facerec.py SCRIPT
 
 
 ![Screenshot from 2022-06-20 22-03-26](https://user-images.githubusercontent.com/85397632/174645965-093443cf-f7d8-466e-9cb0-a87496cf5ad6.png)
@@ -30,19 +30,28 @@ FIRE ALARM TESTING: https://youtube.com/shorts/QCVbj8jSR_w
 
 
 
-## WEAPON DETECTION
+## WEAPON DETECTION: RUN THE weapon_detection.py SCRIPT
 
 
 ![Screenshot from 2022-06-20 22-08-41](https://user-images.githubusercontent.com/85397632/174646511-8f620d58-446a-4cd0-a9ee-9b2c07e2c25e.png)
 ![Screenshot from 2022-06-20 22-09-26](https://user-images.githubusercontent.com/85397632/174646623-8ec25ff9-4cec-4e95-ba1f-9898424bd119.png)
 
 
-## FIRE DETECTION
+## FIRE DETECTION: RUN THE fd.py SCRIPT
 
 ![Screenshot from 2022-06-20 22-11-57](https://user-images.githubusercontent.com/85397632/174646977-4389ec50-ab90-49b5-9a16-58da927bcb61.png)
 
 
-## RESTRICTED AREA
+## RESTRICTED AREA: RUN THE restricted_area.py SCRIPT
 
 
 ![Screenshot from 2022-06-20 22-13-33](https://user-images.githubusercontent.com/85397632/174647674-352af162-60f0-432e-bd0e-6f107121b19d.png)
+
+
+## EMOTION DETECTION: 
+
+
+![Screenshot from 2022-06-20 23-58-02](https://user-images.githubusercontent.com/85397632/174660127-deb49dbb-fdcc-45d7-81e0-92a87593459a.png)
+
+
+
