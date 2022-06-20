@@ -16,4 +16,4 @@
 * matplotlib
 * deepface
 
-pip install <above packages>
+pip install < above packages >
